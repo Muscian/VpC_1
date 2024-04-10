@@ -13,3 +13,4 @@ Abajo dejo un indice para acceder a c/uno de ellos:
 
  - [TP1](/Material_TPs/TP1/TP1_resuelto.ipynb)
  - [TP2](/Material_TPs/TP2/TP2_resuelto.ipynb)
+ - [TP3](/Material_TPs/TP3/TP3_resuelto.ipynb)
